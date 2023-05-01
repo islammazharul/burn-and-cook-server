@@ -1,0 +1,82 @@
+[
+    {
+      "id": "1",
+      "chefName": "John Smith",
+      "chefPicture": "https://example.com/chef1.jpg",
+      "yearsOfExperience": "10",
+      "likes": "100",
+      "numOfRecipes": "50"
+    },
+    {
+      "id": "2",
+      "chefName": "Samantha Jones",
+      "chefPicture": "https://example.com/chef2.jpg",
+      "yearsOfExperience": "8",
+      "likes": "90",
+      "numOfRecipes": "40"
+    },
+    {
+      "id": "3",
+      "chefName": "David Kim",
+      "chefPicture": "https://example.com/chef3.jpg",
+      "yearsOfExperience": "6",
+      "likes": "80",
+      "numOfRecipes": "30"
+    },
+    {
+      "id": "4",
+      "chefName": "Karen Lee",
+      "chefPicture": "https://example.com/chef4.jpg",
+      "yearsOfExperience": "12",
+      "likes": "120",
+      "numOfRecipes": "60"
+    },
+    {
+      "id": "5",
+      "chefName": "Michael Chen",
+      "chefPicture": "https://example.com/chef5.jpg",
+      "yearsOfExperience": "15",
+      "likes": "150",
+      "numOfRecipes": "75"
+    },
+    {
+      "id": "6",
+      "chefName": "Julia Lee",
+      "chefPicture": "https://example.com/chef6.jpg",
+      "yearsOfExperience": "4",
+      "likes": "70",
+      "numOfRecipes": "20"
+    },
+    {
+      "id": "7",
+      "chefName": "Andrew Park",
+      "chefPicture": "https://example.com/chef7.jpg",
+      "yearsOfExperience": "9",
+      "likes": "95",
+      "numOfRecipes": "35"
+    },
+    {
+      "id": "8",
+      "chefName": "Jessica Kim",
+      "chefPicture": "https://example.com/chef8.jpg",
+      "yearsOfExperience": "7",
+      "likes": "85",
+      "numOfRecipes": "25"
+    },
+    {
+      "id": "9",
+      "chefName": "Ryan Lee",
+      "chefPicture": "https://example.com/chef9.jpg",
+      "yearsOfExperience": "11",
+      "likes": "110",
+      "numOfRecipes": "55"
+    },
+    {
+      "id": "10",
+      "chefName": "Emma Lee",
+      "chefPicture": "https://example.com/chef10.jpg",
+      "yearsOfExperience": "3",
+      "likes": "60",
+      "numOfRecipes": "15"
+    }
+  ]
