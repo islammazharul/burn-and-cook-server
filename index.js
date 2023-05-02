@@ -19,7 +19,7 @@ app.get('/categories/:id', (req, res) => {
         res.send(recipes)
     }
     else {
-        const categoryChef = recipes.filter(recipe => recipe.id == id)
+        const categoryChef = recipes.filter(recipe => recipe.chef_id == id)
         res.send(categoryChef)
     }
 })
