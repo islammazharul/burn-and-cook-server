@@ -1,0 +1,219 @@
+ [
+    {
+      "id": 1,
+      "recipe_id": "r001",
+      "ingredients": ["chicken", "potato", "onion", "carrot", "garlic"],
+      "method": "1. Cut the chicken into pieces and brown in a pan with oil. 2. Add chopped onions and garlic, cook until translucent. 3. Add diced potatoes and carrots, stir well. 4. Add water, cover and simmer until the chicken and vegetables are cooked. 5. Season with salt and pepper to taste.",
+      "chef_id": "c001",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "recipe_id": "r002",
+      "ingredients": ["beef", "broccoli", "soy sauce", "garlic", "cornstarch"],
+      "method": "1. Cut the beef into thin strips. 2. Mix soy sauce, garlic, and cornstarch together in a bowl. 3. Marinate the beef in the mixture for at least 30 minutes. 4. Heat oil in a pan, add the beef and stir-fry until brown. 5. Add broccoli and stir-fry for 2 minutes. 6. Add water and simmer until the broccoli is cooked. 7. Season with salt and pepper to taste.",
+      "chef_id": "c002",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "recipe_id": "r003",
+      "ingredients": ["salmon", "spinach", "lemon", "olive oil", "butter"],
+      "method": "1. Season the salmon with salt and pepper. 2. Heat oil in a pan and cook the salmon for 3-4 minutes on each side. 3. Remove the salmon from the pan and set aside. 4. Add butter and spinach to the pan and sauté until wilted. 5. Squeeze lemon juice over the spinach and stir. 6. Serve the salmon on a bed of spinach.",
+      "chef_id": "c003",
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "recipe_id": "r004",
+      "ingredients": ["pork", "cabbage", "soy sauce", "rice vinegar", "sugar"],
+      "method": "1. Cut the pork into thin slices. 2. Mix soy sauce, rice vinegar, and sugar together in a bowl. 3. Marinate the pork in the mixture for at least 30 minutes. 4. Heat oil in a pan, add the pork and stir-fry until brown. 5. Add cabbage and stir-fry for 2 minutes. 6. Add water and simmer until the cabbage is cooked. 7. Season with salt and pepper to taste.",
+      "chef_id": "c004",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "recipe_id": "r005",
+      "ingredients": ["shrimp", "pasta", "garlic", "tomato", "olive oil"],
+      "method": "1. Cook the pasta according to package instructions. 2. Heat oil in a pan and cook the shrimp until pink. 3. Remove the shrimp from the pan and set aside. 4. Add garlic and tomato to the pan and sauté until soft. 5. Add the cooked pasta and shrimp to the pan, and stir to combine. 6. Season with salt and pepper to taste. 7. Serve hot.",
+      "chef_id": "c005",
+      "rating": 4.7
+      },
+      {
+      "id": 6,
+      "recipe_id": "r006",
+      "ingredients": ["ground beef", "onion", "bell pepper", "tomato sauce", "cheddar cheese"],
+      "method": "1. Brown the ground beef in a pan with onions and bell peppers. 2. Add tomato sauce and simmer for 10-15 minutes. 3. Preheat the oven to 375°F (190°C). 4. Grease a baking dish with butter or oil. 5. Spread the beef mixture in the baking dish. 6. Top with shredded cheddar cheese. 7. Bake for 20-25 minutes or until the cheese is melted and bubbly. 8. Serve hot.",
+      "chef_id": "c006",
+      "rating": 4.4
+      },
+      {
+      "id": 7,
+      "recipe_id": "r007",
+      "ingredients": ["chicken breast", "avocado", "lettuce", "tomato", "mayonnaise"],
+      "method": "1. Grill or cook the chicken breast until cooked through. 2. Slice the avocado and tomato. 3. Wash and dry the lettuce leaves. 4. Spread mayonnaise on one side of a lettuce leaf. 5. Layer the avocado, tomato, and chicken on top of the lettuce leaf. 6. Top with another lettuce leaf and secure with a toothpick. 7. Repeat with the remaining ingredients to make additional wraps.",
+      "chef_id": "c007",
+      "rating": 4.1
+      },
+      {
+      "id": 8,
+      "recipe_id": "r008",
+      "ingredients": ["salmon", "brown rice", "broccoli", "soy sauce", "sesame oil"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Cook the brown rice according to package instructions. 3. Cut the broccoli into small florets. 4. Roast the broccoli in the oven for 15-20 minutes or until tender. 5. Season the salmon with soy sauce and sesame oil. 6. Heat oil in a pan and cook the salmon until cooked through. 7. Serve the salmon with the brown rice and roasted broccoli.",
+      "chef_id": "c008",
+      "rating": 4.3
+      },
+      {
+      "id": 9,
+      "recipe_id": "r009",
+      "ingredients": ["beef", "potato", "carrot", "onion", "beef broth"],
+      "method": "1. Cut the beef into cubes. 2. Peel and dice the potatoes, carrots, and onions. 3. Heat oil in a large pot and brown the beef. 4. Add the vegetables and beef broth. 5. Simmer for 45 minutes to an hour, or until the vegetables are tender and the beef is cooked through. 6. Season with salt and pepper to taste.",
+      "chef_id": "c009",
+      "rating": 4.9
+      },
+      {
+      "id": 10,
+      "recipe_id": "r010",
+      "ingredients": ["pork chop", "apple", "onion", "cinnamon", "brown sugar"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2 Season the pork chops with salt, pepper, and cinnamon. 3. Slice the apple and onion. 4. Heat oil in a pan and sear the pork chops on both sides. 5. Place the pork chops in a baking dish. 6. Top with sliced apples and onions. 7. Sprinkle with brown sugar. 8. Bake for 25-30 minutes or until the pork is cooked through. 9. Serve hot.",
+      "chef_id": "c010",
+      "rating": 4.5
+      },
+      {
+      "id": 11,
+      "recipe_id": "r011",
+      "ingredients": ["chicken thighs", "lemon", "garlic", "rosemary", "olive oil"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Season the chicken thighs with salt, pepper, and chopped rosemary. 3. Heat oil in a pan and brown the chicken thighs on both sides. 4. Transfer the chicken to a baking dish. 5. Slice the lemon and place the slices on top of the chicken. 6. Crush the garlic cloves and scatter them around the chicken. 7. Drizzle with olive oil. 8. Bake for 25-30 minutes or until the chicken is cooked through. 9. Serve hot.",
+      "chef_id": "c011",
+      "rating": 4.2
+      },
+      {
+      "id": 12,
+      "recipe_id": "r012",
+      "ingredients": ["ground turkey", "zucchini", "tomato", "pasta sauce", "mozzarella cheese"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Brown the ground turkey in a pan. 3. Slice the zucchini and tomato. 4. Grease a baking dish with butter or oil. 5. Layer the zucchini and tomato on the bottom of the baking dish. 6. Spoon the pasta sauce over the vegetables. 7. Add the cooked ground turkey on top of the pasta sauce. 8. Top with shredded mozzarella cheese. 9. Bake for 20-25 minutes or until the cheese is melted and bubbly. 10. Serve hot.",
+      "chef_id": "c012",
+      "rating": 4.6
+      },
+      {
+      "id": 13,
+      "recipe_id": "r013",
+      "ingredients": ["pork tenderloin", "potato", "green beans", "balsamic vinegar", "honey"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Cut the pork tenderloin into bite-sized pieces. 3. Peel and dice the potatoes. 4. Trim the ends off the green beans. 5. Combine the pork, potatoes, and green beans in a baking dish. 6. Drizzle with balsamic vinegar and honey. 7. Bake for 25-30 minutes or until the pork is cooked through and the vegetables are tender. 8. Serve hot.",
+      "chef_id": "c013",
+      "rating": 4.3
+      },
+      {
+      "id": 14,
+      "recipe_id": "r014",
+      "ingredients": ["salmon", "quinoa", "spinach", "lemon", "olive oil"],
+      "method": "1. Cook the quinoa according to package instructions. 2. Season the salmon with salt and pepper. 3. Heat oil in a pan and cook the salmon until cooked through. 4. Remove the salmon from the pan and add the spinach to the same pan. 5. Cook the spinach until wilted. 6. Squeeze the juice from the lemon over the spinach. 7. Serve the salmon over a bed of quinoa and top with the spinach. 8. Drizzle with olive oil. 9. Serve hot.",
+      "chef_id": "c014",
+      "rating": 4.8
+      },
+      {
+      "id": 15,
+      "recipe_id": "r015",
+      "ingredients": ["ground beef", "onion", "bell pepper", "tomato", "cheddar cheese"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Brown the ground beef in a pan. 3. Dice the onion, bell pepper, and tomato. 4. Grease a baking dish with butter or oil. 5. Layer the ground beef, onion, bell pepper, and tomato in the baking dish. 6. Top with shredded cheddar cheese. 7. Bake for 20-25 minutes or until the cheese is melted and bubbly. 8. Serve hot.",
+      "chef_id": "c015",
+      "rating": 4.4
+      },
+      {
+      "id": 16,
+      "recipe_id": "r016",
+      "ingredients": ["chicken breasts", "pesto", "tomato", "mozzarella cheese", "basil"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Season the chicken breasts with salt and pepper. 3. Spread pesto over the top of each chicken breast. 4. Slice the tomato and place the slices on top of the pesto. 5. Top with shredded mozzarella cheese. 6. Bake for 25-30 minutes or until the chicken is cooked through and the cheese is melted and bubbly. 7. Top with chopped fresh basil. 8. Serve hot.",
+      "chef_id": "c016",
+      "rating": 4.7
+      },
+      {
+      "id": 17,
+      "recipe_id": "r017",
+      "ingredients": ["pork ribs", "bbq sauce", "brown sugar", "garlic powder", "onion powder"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Season the pork ribs with garlic powder, onion powder, salt, and pepper. 3. Combine the bbq sauce and brown sugar in a bowl. 4. Rub the bbq sauce mixture all over the pork ribs. 5. Place the pork ribs in a baking dish. 6. Bake for 2-2.5 hours or until the meat is tender and falls off the bone. 7. Serve hot.",
+      "chef_id": "c017",
+      "rating": 4.5
+      },
+      {
+      "id": 18,
+      "recipe_id": "r018",
+      "ingredients": ["shrimp", "spaghetti", "garlic", "butter", "lemon"],
+      "method": "1. Cook the spaghetti according to package instructions. 2. Peel and devein the shrimp. 3. Mince the garlic. 4. Heat butter in a pan and sauté the garlic until fragrant. 5. Add the shrimp to the pan and cook until pink. 6. Squeeze the juice from the lemon over the shrimp. 7. Serve the shrimp over a bed of spaghetti. 8. Serve hot.",
+      "chef_id": "c018",
+      "rating": 4.5
+      },
+    {
+      "id": 19,
+      "recipe_id": "r019",
+      "ingredients": ["salmon", "brown sugar", "soy sauce", "garlic", "ginger"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Combine brown sugar, soy sauce, garlic, and ginger in a bowl. 3. Place the salmon fillets in a baking dish and pour the soy sauce mixture over them. 4. Bake for 12-15 minutes or until the salmon is cooked through. 5. Serve hot.",
+      "chef_id": "c018",
+      "rating": 4.6
+    },
+    {
+      "id": 20,
+      "recipe_id": "r020",
+      "ingredients": ["chicken thighs", "potatoes", "carrots", "onion", "rosemary"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Peel and chop the potatoes and carrots into bite-sized pieces. 3. Dice the onion. 4. Season the chicken thighs with salt and pepper. 5. Grease a baking dish with butter or oil. 6. Layer the potatoes, carrots, and onion in the baking dish. 7. Place the chicken thighs on top of the vegetables. 8. Sprinkle fresh rosemary over the chicken and vegetables. 9. Bake for 40-45 minutes or until the chicken is cooked through and the vegetables are tender. 10. Serve hot.",
+      "chef_id": "c019",
+      "rating": 4.8
+    },
+    {
+      "id": 21,
+      "recipe_id": "r021",
+      "ingredients": ["beef tenderloin", "mushrooms", "thyme", "garlic", "butter"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Season the beef tenderloin with salt and pepper. 3. Melt butter in a pan and sauté the mushrooms, garlic, and thyme until tender. 4. Place the beef tenderloin in a baking dish. 5. Spread the mushroom mixture over the top of the beef tenderloin. 6. Bake for 25-30 minutes or until the beef is cooked to your liking. 7. Serve hot.",
+      "chef_id": "c020",
+      "rating": 4.9
+    },
+    {
+      "id": 22,
+      "recipe_id": "r022",
+      "ingredients": ["pork chops", "apple", "cinnamon", "brown sugar", "butter"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Season the pork chops with cinnamon, salt, and pepper. 3. Peel and slice the apple. 4. Melt butter in a pan and sauté the apple slices until tender. 5. Layer the pork chops and sautéed apples in a baking dish. 6. Sprinkle brown sugar over the top of the pork chops. 7. Bake for 20-25 minutes or until the pork is cooked through. 8. Serve hot.",
+      "chef_id": "c021",
+      "rating": 4.5
+    },
+    {
+      "id": 23,
+      "recipe_id": "r023",
+      "ingredients": ["salmon", "asparagus", "lemon", "garlic", "butter"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Season the salmon with salt and pepper. 3. Trim the woody ends off the asparagus and lay them in a single layer in a baking dish. 4. Melt butter in a pan and sauté the garlic until fragrant. 5. Pour the butter and garlic over the asparagus. 6. Place the salmon fillets on top of the asparagus. 7. Slice the lemon and place the slices on top of the salmon. 8. Bake for 12-15 minutes or until the salmon is cooked through. 9. Serve hot.",
+      "chef_id": "c022",
+      "rating": 4.7
+      },
+      {
+      "id": 24,
+      "recipe_id": "r024",
+      "ingredients": ["chicken breasts", "paprika", "onion powder", "garlic powder", "cumin"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Season the chicken breasts with paprika, onion powder, garlic powder, and cumin. 3. Grease a baking dish with oil. 4. Place the chicken breasts in the baking dish. 5. Bake for 25-30 minutes or until the chicken is cooked through. 6. Serve hot.",
+      "chef_id": "c023",
+      "rating": 4.5
+      },
+      {
+      "id": 25,
+      "recipe_id": "r025",
+      "ingredients": ["beef chuck roast", "carrots", "potatoes", "onion", "thyme"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Peel and chop the potatoes and carrots into bite-sized pieces. 3. Dice the onion. 4. Season the beef chuck roast with salt and pepper. 5. Grease a baking dish with butter or oil. 6. Layer the potatoes, carrots, and onion in the baking dish. 7. Place the beef chuck roast on top of the vegetables. 8. Sprinkle fresh thyme over the beef and vegetables. 9. Bake for 2-2 1/2 hours or until the beef is fork-tender. 10. Serve hot.",
+      "chef_id": "c024",
+      "rating": 4.9
+      },
+      {
+      "id": 26,
+      "recipe_id": "r026",
+      "ingredients": ["pork tenderloin", "apples", "onion", "cinnamon", "brown sugar"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Season the pork tenderloin with cinnamon, salt, and pepper. 3. Peel and slice the apples. 4. Dice the onion. 5. Grease a baking dish with butter or oil. 6. Layer the pork tenderloin, sliced apples, and diced onion in the baking dish. 7. Sprinkle brown sugar over the top of the pork tenderloin. 8. Bake for 25-30 minutes or until the pork is cooked through. 9. Serve hot.",
+      "chef_id": "c025",
+      "rating": 4.6
+      },
+      {
+      "id": 27,
+      "recipe_id": "r027",
+      "ingredients": ["shrimp", "linguine", "garlic", "butter", "parsley"],
+      "method": "1. Preheat the oven to 375°F (190°C). 2. Season the pork tenderloin with cinnamon, salt, and pepper. 3. Peel and slice the apples. 4. Dice the onion. 5. Grease a baking dish with butter or oil. 6. Layer the pork tenderloin, sliced apples, and diced onion in the baking dish. 7. Sprinkle brown sugar over the top of the pork tenderloin. 8. Bake for 25-30 minutes or until the pork is cooked through. 9. Serve hot.",
+      "chef_id": "c027",
+      "rating": 4.2
+      }
+    ]
+    
