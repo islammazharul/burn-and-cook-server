@@ -33,14 +33,6 @@
     },
     {
       "id": "5",
-      "chefName": "Michael Chen",
-      "chefPicture": "https://i.ibb.co/30XjP43/chef-5.jpg",
-      "yearsOfExperience": "15",
-      "likes": "150",
-      "numOfRecipes": "75"
-    },
-    {
-      "id": "6",
       "chefName": "Julia Lee",
       "chefPicture": "https://i.ibb.co/60bk915/chef-6.jpg",
       "yearsOfExperience": "4",
@@ -48,35 +40,12 @@
       "numOfRecipes": "20"
     },
     {
-      "id": "7",
-      "chefName": "Andrew Park",
-      "chefPicture": "https://i.ibb.co/TYnSqrY/chef-7.jpg",
-      "yearsOfExperience": "9",
-      "likes": "95",
-      "numOfRecipes": "35"
-    },
-    {
-      "id": "8",
+      "id": "6",
       "chefName": "Jessica Kim",
       "chefPicture": "https://i.ibb.co/zXh680h/chef-8.jpg",
       "yearsOfExperience": "7",
       "likes": "85",
       "numOfRecipes": "25"
-    },
-    {
-      "id": "9",
-      "chefName": "Ryan Lee",
-      "chefPicture": "https://example.com/chef9.jpg",
-      "yearsOfExperience": "11",
-      "likes": "110",
-      "numOfRecipes": "55"
-    },
-    {
-      "id": "10",
-      "chefName": "Emma Lee",
-      "chefPicture": "https://example.com/chef10.jpg",
-      "yearsOfExperience": "3",
-      "likes": "60",
-      "numOfRecipes": "15"
     }
+
   ]
