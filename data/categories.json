@@ -1,51 +1,50 @@
 [
-    {
-      "id": "1",
-      "chefName": "John Smith",
-      "chefPicture": "https://i.ibb.co/q9Dh6TH/chef-1.jpg",
-      "yearsOfExperience": "10",
-      "likes": "100",
-      "numOfRecipes": "50"
-    },
-    {
-      "id": "2",
-      "chefName": "Samantha Jones",
-      "chefPicture": "https://i.ibb.co/3WJY8rK/chef-2.jpg",
-      "yearsOfExperience": "8",
-      "likes": "90",
-      "numOfRecipes": "40"
-    },
-    {
-      "id": "3",
-      "chefName": "David Kim",
-      "chefPicture": "https://i.ibb.co/RgV33m4/chef-3.jpg",
-      "yearsOfExperience": "6",
-      "likes": "80",
-      "numOfRecipes": "30"
-    },
-    {
-      "id": "4",
-      "chefName": "Karen Lee",
-      "chefPicture": "https://i.ibb.co/34WCkx5/chef-4.jpg",
-      "yearsOfExperience": "12",
-      "likes": "120",
-      "numOfRecipes": "60"
-    },
-    {
-      "id": "5",
-      "chefName": "Julia Lee",
-      "chefPicture": "https://i.ibb.co/60bk915/chef-6.jpg",
-      "yearsOfExperience": "4",
-      "likes": "70",
-      "numOfRecipes": "20"
-    },
-    {
-      "id": "6",
-      "chefName": "Jessica Kim",
-      "chefPicture": "https://i.ibb.co/zXh680h/chef-8.jpg",
-      "yearsOfExperience": "7",
-      "likes": "85",
-      "numOfRecipes": "25"
-    }
-
-  ]
+  {
+    "id": "1",
+    "chefName": "Mustafa Güney",
+    "chefPicture": "https://i.ibb.co/q9Dh6TH/chef-1.jpg",
+    "yearsOfExperience": "10",
+    "likes": "100",
+    "numOfRecipes": "3"
+  },
+  {
+    "id": "2",
+    "chefName": "Özge Eren",
+    "chefPicture": "https://i.ibb.co/3WJY8rK/chef-2.jpg",
+    "yearsOfExperience": "8",
+    "likes": "90",
+    "numOfRecipes": "3"
+  },
+  {
+    "id": "3",
+    "chefName": "Erdem Yılmaz",
+    "chefPicture": "https://i.ibb.co/RgV33m4/chef-3.jpg",
+    "yearsOfExperience": "6",
+    "likes": "80",
+    "numOfRecipes": "3"
+  },
+  {
+    "id": "4",
+    "chefName": "Ali Karaca",
+    "chefPicture": "https://i.ibb.co/34WCkx5/chef-4.jpg",
+    "yearsOfExperience": "12",
+    "likes": "120",
+    "numOfRecipes": "3"
+  },
+  {
+    "id": "5",
+    "chefName": "Özkan Karademir",
+    "chefPicture": "https://i.ibb.co/60bk915/chef-6.jpg",
+    "yearsOfExperience": "4",
+    "likes": "70",
+    "numOfRecipes": "3"
+  },
+  {
+    "id": "6",
+    "chefName": "Ahmet Karaca",
+    "chefPicture": "https://i.ibb.co/zXh680h/chef-8.jpg",
+    "yearsOfExperience": "7",
+    "likes": "85",
+    "numOfRecipes": "3"
+  }
+]
